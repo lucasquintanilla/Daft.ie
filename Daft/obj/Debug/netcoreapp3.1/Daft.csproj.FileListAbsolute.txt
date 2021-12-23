@@ -1,0 +1,17 @@
+C:\Users\lucas\source\repos\Daft\Daft\bin\Debug\netcoreapp3.1\Daft.exe
+C:\Users\lucas\source\repos\Daft\Daft\bin\Debug\netcoreapp3.1\Daft.deps.json
+C:\Users\lucas\source\repos\Daft\Daft\bin\Debug\netcoreapp3.1\Daft.runtimeconfig.json
+C:\Users\lucas\source\repos\Daft\Daft\bin\Debug\netcoreapp3.1\Daft.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\Daft\Daft\bin\Debug\netcoreapp3.1\Daft.dll
+C:\Users\lucas\source\repos\Daft\Daft\bin\Debug\netcoreapp3.1\Daft.pdb
+C:\Users\lucas\source\repos\Daft\Daft\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\lucas\source\repos\Daft\Daft\obj\Debug\netcoreapp3.1\Daft.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Daft\Daft\obj\Debug\netcoreapp3.1\Daft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\Daft\Daft\obj\Debug\netcoreapp3.1\Daft.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Daft\Daft\obj\Debug\netcoreapp3.1\Daft.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Daft\Daft\obj\Debug\netcoreapp3.1\Daft.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Daft\Daft\obj\Debug\netcoreapp3.1\Daft.csproj.CopyComplete
+C:\Users\lucas\source\repos\Daft\Daft\obj\Debug\netcoreapp3.1\Daft.dll
+C:\Users\lucas\source\repos\Daft\Daft\obj\Debug\netcoreapp3.1\Daft.pdb
+C:\Users\lucas\source\repos\Daft\Daft\obj\Debug\netcoreapp3.1\Daft.genruntimeconfig.cache
+C:\Users\lucas\source\repos\Daft\Daft\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
